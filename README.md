@@ -6,10 +6,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Занятия](https://img.shields.io/badge/Занятий-4-blue?style=for-the-badge)
 
-[📚 Начать обучение](#-программа-курса) · [🛠️ Установка](#-требования-и-установка) · [📋 Задания](./lessons/) (./CONTRIBUTING.md)
-
 </div>
----
 
 ## 📌 О курсе
 
@@ -25,7 +22,7 @@
 
 ## Обязательные требования
 
-- Видеокарта NVIDIA RTX 2060 или мощнее
+- Видеокарта NVIDIA RTX 4080 или мощнее
 - Минимум 32 ГБ оперативной памяти
 
 ---
