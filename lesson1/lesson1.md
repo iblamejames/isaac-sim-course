@@ -37,6 +37,7 @@ https://docs.isaacsim.omniverse.nvidia.com/5.0.0/installation/download.html
 ### Шаг 2 — Распаковать
 
 Создать папку для Isaac Sim и распаковать туда скачанный архив. После распаковки внутри папки появятся файлы примерно такого вида:
+
 ![Страница загрузки](assets/pap.png)
 
 
