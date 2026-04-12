@@ -42,7 +42,6 @@ Ground Plane — бесконечная плоская поверхность с
 
 После добавления в Stage появятся `GroundPlane`, `CollisionMesh` и `CollisionPlane` — компоненты физической поверхности.
 
-![Ground Plane добавлен, Stage с CollisionMesh и CollisionPlane](assets/def.gif)
 
 ### Освещение
 
@@ -90,12 +89,12 @@ Ground Plane — бесконечная плоская поверхность с
 2. В панели Property нажать кнопку **+ Add**
 3. Выбрать `Physics → Rigid Body with Colliders Preset`
 
-![Панель Property — кнопка + Add и раздел Materials](assets/matcreate.gif)
 
 Этот пресет добавляет сразу оба компонента одним кликом.
 
 Теперь нажмём Play — объект упадёт на Ground Plane.
 
+[Куб с физикой падает и кувыркается на Ground Plane](assets/fall.gif)
 ---
 
 ## Трансформация объектов
@@ -132,7 +131,7 @@ Ground Plane — бесконечная плоская поверхность с
 
 **Restitution** — упругость. От 0 (глухой удар, не отскакивает) до 1 (отскакивает на ту же высоту).
 
-![Куб с физикой падает и кувыркается на Ground Plane](assets/fall.gif)
+![Панель Property — кнопка + Add и раздел Materials](assets/matcreate.gif)
 
 ### Назначение материала на объект
 
