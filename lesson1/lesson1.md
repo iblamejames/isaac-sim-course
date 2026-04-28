@@ -44,7 +44,12 @@ https://docs.isaacsim.omniverse.nvidia.com/5.0.0/installation/download.html
 
 Дважды кликнуть на `isaac-sim.bat`. Первый запуск занимает 5–15 минут — программа загружает и кэширует шейдеры. Следующие запуски будут намного быстрее (30–60 секунд).
 
+<details>
+<summary>▶ Первый запуск Isaac Sim</summary>
+
 ![Первый запуск Isaac Sim](assets/zap.gif)
+
+</details>
 
 ---
 
@@ -118,7 +123,12 @@ https://docs.isaacsim.omniverse.nvidia.com/5.0.0/installation/download.html
 **Pause** — ставит на паузу  
 **Stop** — останавливает и возвращает сцену в исходное состояние  
 
+<details>
+<summary>▶ Запуск симуляции</summary>
+
 ![Запуск симуляции](assets/play.gif)
+
+</details>
 
 ---
 

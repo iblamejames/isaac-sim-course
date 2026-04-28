@@ -32,7 +32,12 @@ Physics Scene — контейнер, который включает физич
 
 В Stage появится запись `PhysicsScene`. В Property у неё будут видны настройки: гравитация направлена по оси -Z с величиной 9.8 м/с² — как в реальном мире.
 
+<details>
+<summary>▶ Добавление Physics Scene</summary>
+
 ![Добавление Physics Scene](assets/new.gif)
+
+</details>
 
 ### Ground Plane
 
@@ -50,7 +55,12 @@ Ground Plane — бесконечная плоская поверхность с
 
 После добавления сцена становится значительно светлее.
 
+<details>
+<summary>▶ Сцена с Ground Plane и освещением</summary>
+
 ![Сцена с Ground Plane и освещением](assets/light.gif)
+
+</details>
 
 ---
 
@@ -70,7 +80,12 @@ Ground Plane — бесконечная плоская поверхность с
 
 Куб появится в центре сцены. Нажмём Play — он не упадёт. Это **визуальный** объект без физики, он просто стоит на месте.
 
+<details>
+<summary>▶ Визуальный куб без физики стоит на месте после Play</summary>
+
 ![Визуальный куб без физики стоит на месте после Play](assets/cube.gif)
+
+</details>
 
 ---
 
@@ -92,7 +107,12 @@ Ground Plane — бесконечная плоская поверхность с
 
 Теперь нажмём Play — объект упадёт на Ground Plane.
 
+<details>
+<summary>▶ Куб с физикой падает и кувыркается на Ground Plane</summary>
+
 ![Куб с физикой падает и кувыркается на Ground Plane](assets/fall.gif)
+
+</details>
 
 ---
 
@@ -108,7 +128,12 @@ Ground Plane — бесконечная плоская поверхность с
 
 **R** — масштаб. Появятся квадраты по осям, тяни, чтобы растянуть.
 
+<details>
+<summary>▶ Демонстрация инструментов W, E, R на объекте</summary>
+
 ![Демонстрация инструментов W, E, R на объекте](assets/wer.gif)
+
+</details>
 
 Также можно вписать точные координаты в панели Property, раздел **Transform → Translate** — поля X, Y, Z в метрах.
 
@@ -130,7 +155,12 @@ Ground Plane — бесконечная плоская поверхность с
 
 **Restitution** — упругость. От 0 (глухой удар, не отскакивает) до 1 (отскакивает на ту же высоту).
 
+<details>
+<summary>▶ Создание Physics Material</summary>
+
 ![Создание Physics Material](assets/matcreate.gif)
+
+</details>
 
 ### Назначение материала на объект
 
@@ -150,7 +180,12 @@ Ground Plane — бесконечная плоская поверхность с
 
 Каждому объекту добавить `Rigid Body with Colliders Preset`. Нажать Play.
 
+<details>
+<summary>▶ Сфера падает на стопку из трёх кубов и разрушает её</summary>
+
 ![Сфера падает на стопку из трёх кубов и разрушает её](assets/spheretotower.gif)
+
+</details>
 
 ---
 
@@ -177,7 +212,12 @@ Ground Plane — бесконечная плоская поверхность с
 
 Чтобы поднять сферу: выбери её → Property → Transform → Translate → увеличь Z до 3–5.
 
+<details>
+<summary>▶ Решение задания 1</summary>
+
 ![Решение задания 1](assets/zad1.gif)
+
+</details>
 
 </details>
 
@@ -194,7 +234,12 @@ Ground Plane — бесконечная плоская поверхность с
 
 Не забудь нажать Stop перед изменением параметров.
 
+<details>
+<summary>▶ Решение задания 2</summary>
+
 ![Решение задания 2](assets/zad2.gif)
+
+</details>
 
 </details>
 
