@@ -10,7 +10,7 @@ Isaac Sim поставляется с набором готовых робото
 
 **Franka Emika Panda** — робот-манипулятор с 7 суставами. Один из самых популярных в академических исследованиях, используется в лабораториях по всему миру.
 
-![Franka Panda в Isaac Sim](assets/franka.png)
+![Franka Panda в Isaac Sim](assets/Franka.png)
 
 ---
 
